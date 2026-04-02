@@ -1,22 +1,34 @@
-owasp-top10-juice-shop-lab/
-├── README.md
-├── docs/
-│   ├── ambiente-lab.md
-│   ├── metodologia.md
-│   └── conclusoes.md
-├── A1-SQL-Injection/
-│   ├── auth-bypass.md
-│   └── error-handling.md
-├── A3-XSS/
-│   └── reflected-xss.md
-├── payloads/
-│   ├── sqli.txt
-│   └── xss.txt
-├── screenshots/
-│   ├── 01-juice-shop-home.png
-│   ├── 02-burp-request-login.png
-│   ├── 03-burp-response-token.png
-│   ├── 04-admin-authenticated.png
-│   └── 05-error-handling-object-object.png
-└── tools/
-    └── burp-notes.md
+# owasp-top10-lab
+# 🔥 OWASP Top 10 Lab
+
+Este repositório contém meus estudos práticos sobre vulnerabilidades web.
+
+---
+
+## 🧪 Vulnerabilidades estudadas
+
+### 1. SQL Injection
+- Testes realizados
+- Payloads utilizados
+- Resultado
+
+### 2. XSS
+- Tipos de ataque
+- Exemplos práticos
+
+---
+
+## 🛠️ Ferramentas usadas
+- Kali Linux
+- Burp Suite
+- OWASP Juice Shop
+
+---
+
+## 📸 Prints
+ja ja
+
+---
+
+## 🎯 Objetivo
+Aprender na prática como explorar e mitigar vulnerabilidades.
